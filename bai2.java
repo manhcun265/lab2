@@ -8,9 +8,9 @@ public class bai2 {
         n = sc.nextInt();
 
         if(n%2==0){
-            System.out.println("la so chan: ");
+            System.out.println("la so chan ");
         }else{
-            System.out.println("la so le: ");
+            System.out.println("la so le ");
         }
     }
 }
